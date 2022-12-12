@@ -27,9 +27,9 @@ const func = (num) => {
 University: Belarusian National Technical University, Low Temperature Engineer
 ## Courses:
 * JS / FRONT-END. STAGE 0 (RU) 2021
-WEB-разработчик 2022 Udemy
-Полный курс по JavaScript + React - с нуля до результата  Udemy
-JS / FRONT-END (RU) 2021
+* WEB-разработчик 2022 Udemy
+* Полный курс по JavaScript + React - с нуля до результата  Udemy
+* JS / FRONT-END (RU) 2021
 
 RsSh
 
