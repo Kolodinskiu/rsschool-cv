@@ -1,1 +1,2 @@
-https://github.com/Kolodinskiu/rsschool-cv/cv
+
+https://Kolodinskiu.github.io/rsschool-cv/cv
